@@ -1,5 +1,5 @@
 # Univers-web
 
-Projet personnel
+Projet personnel HTML & CSS
 
 Démonstration : https://demo-univers.netlify.app/
